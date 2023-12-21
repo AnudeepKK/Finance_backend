@@ -1,0 +1,1 @@
+export default './adhar.jpg';

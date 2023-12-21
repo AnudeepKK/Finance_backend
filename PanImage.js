@@ -1,0 +1,1 @@
+export default "./pan.jpg"
